@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Nimu 👋
 
-<!--
-**NimuVanderlan/NimuVanderlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at the University of Trento, Italy
 
-Here are some ideas to get you started:
+I'm passionate about technology, software development, and building projects that solve real-world problems. I enjoy learning new technologies, exploring open-source software, and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💻 Computer Science Student
+* 🌱 Currently learning Software Development and Computer Science fundamentals
+* 🔭 Working on personal and university projects
+* 🇮🇹 Living in  Italy
+
+
+---
+
+⭐ Learning, Building, and Growing Every Day
+
